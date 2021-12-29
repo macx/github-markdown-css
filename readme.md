@@ -10,6 +10,6 @@ Open the [User Settings](https://code.visualstudio.com/docs/languages/markdown#_
 
 ```json
 "markdown.styles": [
-	"https://cdn.jsdelivr.net/gh/macx/github-markdown-css/github-markdown.css"
+	"https://cdn.jsdelivr.net/gh/macx/github-markdown-css@main/github-markdown.css"
 ],
 ```
